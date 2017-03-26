@@ -27,7 +27,8 @@
 * 正整数*  我自己也还没有尝试如果填负数会怎么样，你们可以试一下然后在反馈那里告诉我，嘿嘿
 * 过一段时间我会用快速排序替换冒泡排序(目测需要大家帮忙hhh好忙啊)
 
-原网址：[http://aix.colintree.cn/down/MathExtended][ori]
+原网址：http://aix.colintree.cn/down/MathExtended  
+作者：ColinTree
 
 
 
@@ -60,7 +61,5 @@ Extend Math Functions of Appinventor! Included:
 * positive integer*  i have not try what will happen when we fill a negative number, you can try and tell me at the feedback
 * maybe later i will change bubble sort into quick sort( i m so busy that i need help...)
 
-Original Web Page：[http://aix.colintree.cn/down/MathExtended][ori]
-  
-  
-  [ori]: http://www.source-space.cn/en/down/MathExtended
+Original Web Page：http://aix.colintree.cn/down/MathExtended  
+Author: ColinTree
