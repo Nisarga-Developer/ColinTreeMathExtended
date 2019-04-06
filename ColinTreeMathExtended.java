@@ -16,7 +16,7 @@ import com.google.appinventor.components.runtime.util.*;
 @SimpleObject(external = true)
 
 public class ColinTreeMathExtended extends AndroidNonvisibleComponent implements Component {
-    public static final int VERSION = 1;
+    public static final int VERSION = 2;
     private ComponentContainer container;
     private Context context;
     private static final String LOG_TAG = "ColinTreeMathExtended";
